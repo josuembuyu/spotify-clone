@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+-Next JS 12
+-React
+-Debounce
+-Tailwind CSS
+-spotify API
+-oauth JWT
+-access/refresh
+-tokens
+-NextAuth
+-Recoil
+
 ## Getting Started
 
 First, run the development server:
